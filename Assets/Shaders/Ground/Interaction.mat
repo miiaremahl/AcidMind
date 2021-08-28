@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Interaction
+  m_Shader: {fileID: -6465566751694194690, guid: 30efd0f22abd79d4bb3f8a82a94262cf,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_12C7E53B: 1
+    - Vector1_34C9F477: 1.21
+    - Vector1_61A4C4EE: 1.38
+    - Vector1_6C465DA8: 0.1
+    - Vector1_6C55EF31: 1
+    - Vector1_74619253: 3.09
+    - Vector1_85D1FC90: 0.5
+    - Vector1_A1662991: 0.74
+    - Vector1_B3897215: 0.5
+    - Vector1_DD728DD2: 2.02
+    - Vector1_E5619847: 19.6
+    m_Colors:
+    - Color_2A832125: {r: 0.012286487, g: 0.011612245, b: 0.27049786, a: 0.5529412}
+    - Color_2D6C051B: {r: 0.09678713, g: 0.63460875, b: 0.7075472, a: 0}
+    - Color_8CF6B2F6: {r: 4.841894, g: 12.37373, b: 0, a: 0}
+    - Color_A06435D9: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_6A4857CD: {r: 0.5, g: 0, b: 0, a: 0}
+    - Vector3_2A3D1164: {r: 0, g: 0, b: 0, a: 0}
